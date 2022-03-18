@@ -40,9 +40,9 @@ Paper List:
 
 ## Fourth Week 2022-03-18
 
-Presenter: Jiang Ruili
+Presenter: Xu Jiahao
 
-Topic: Few-shot Classification
+Topic: NMT Decoding Bias and Minimum Bayesian Risk
 
 Paper List:
 1. If Beam Search is the Answer, What was the Question?
