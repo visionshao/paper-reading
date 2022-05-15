@@ -1,7 +1,7 @@
 # paper-reading
 Group Paper Reading
 
-## First Week 2022-02-26
+## 2022-02-26
 
 Presenter: Shao Wei
 
@@ -13,7 +13,7 @@ Paper List:
 3. ProtGNN: Towards Self-Explaining Graph Neural Networks
 
 
-## Second Week 2022-03-04
+## 2022-03-04
 
 Presenter: Zhao Xueliang
 
@@ -25,7 +25,7 @@ Paper List:
 3. Finetuned Language Models are Zero-Shot Learners
 
 
-## Third Week 2022-03-11
+## 2022-03-11
 
 Presenter: Jiang Ruili
 
@@ -38,7 +38,7 @@ Paper List:
 
 
 
-## Fourth Week 2022-03-18
+## 2022-03-18
 
 Presenter: Xu Jiahao
 
@@ -48,3 +48,103 @@ Paper List:
 1. If Beam Search is the Answer, What was the Question?
 2. Is MAP Decoding All You Need?
 3. Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation
+
+
+
+## 2022-03-25
+
+Presenter: Li Huayang
+
+Topic: Instance-level Attribution
+
+Paper List:
+1. Input Similarity from the Neural Network Perspective
+2. Representer Point Selection for Explaining Deep Neural Networks
+3. Influence Functions in Deep Learning Are Fragile
+
+
+
+## 2022-04-01
+
+Presenter: Chen Yi
+
+Topic: Unsupervised Paraphrase Generation
+
+Paper List:
+1. Revisiting Pivot-Based Paraphrase Generation: Language Is Not the Only Optional Pivot
+2. Unsupervised Paraphrasing with Pretrained Language Models
+3. ConRPG: Paraphrase Generation using Contexts as Regularizer
+
+
+
+## 2022-04-08
+
+Presenter: Shen Lingfeng
+
+Topic: Exploration on Mon-adversarial Perturbation in NLP
+
+Paper List:
+1. Evaluating the Robustness of Neural Language Models to Input Perturbations
+2. Evaluating Robustness to Input Perturbations for Neural Machine Translation
+3. Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification
+4. Interpreting the Robustness of Neural NLP Models to Textual Perturbations
+
+
+
+## 2022-04-15
+
+Presenter: Lin Wenye
+
+Topic: Graph Neural Network
+
+Paper List:
+1. Graph Attention Network
+2. GraphSAGE
+3. Graph Transformer for Graph-to-Sequence Learning
+
+
+
+## 2022-04-22
+
+Presenter: Yu Guoxin
+
+Topic: Aspect-based Sentiment Analysis
+
+Paper List:
+1. Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training
+2. Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis
+3. Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction
+
+
+
+## 2022-05-06
+
+Presenter: Hao Hongkun
+
+Topic: Retrieval Augmented Approaches in NLP
+
+Paper List:
+1. Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering
+2. Efficient Cluster-Based k-Nearest-Neighbor Machine Translation
+3. Cross-Lingual Phrase Retrieval 
+
+
+
+## 2022-05-13
+
+Presenter: Wang Yan
+
+Topic: The Evolution of Our Retrieval Augmented Generation Paradigm
+
+Paper List:
+1. NAACL 2019 Skeleton to Response : Dialogue Generation Guided by Retrieval Memory
+2. EMNLP 2019: Retrieval guided Dialogue Response Generation via a Matching to Generation Framework
+3. TASLP: Prototype to Style : Dialogue Generation with Style Aware Editing on Retrieval Memory
+4. ACL 2020: Generate, Delete and Rewrite: A Three Stage Framework for Improving Persona Consistency of Dialogue Generation
+5. ACL 2021: Neural Machine Translation with Monolingual Translation Memory (Outstanding Paper Award)
+6. Arxiv : Exploring Dense Retrieval for Dialogue Response Selection
+
+
+
+
+
